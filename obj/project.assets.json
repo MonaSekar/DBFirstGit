@@ -10236,11 +10236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\APIproject\\DBFirstGit\\DBFirstGit.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\DBFirstGit\\DBFirstGit.csproj",
       "projectName": "DBFirstGit",
-      "projectPath": "C:\\Users\\Admin\\source\\APIproject\\DBFirstGit\\DBFirstGit.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\DBFirstGit\\DBFirstGit.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\APIproject\\DBFirstGit\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\DBFirstGit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
