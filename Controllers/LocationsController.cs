@@ -9,7 +9,7 @@ using DBFirstGit.Models;
 
 namespace DBFirstGit.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]")] //good very good excellent, I would like to take this controller home
     [ApiController]
     public class LocationsController : ControllerBase
     {
